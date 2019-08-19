@@ -1,0 +1,13 @@
+{
+  "name": "testwithGit",
+  "defaultLayout": "PhonePortrait",
+  "previewToken": "d88c2ba3",
+  "theme": "Anchor",
+  "clientVersion": "6.1.0-dev",
+  "hidden": false,
+  "isBuiltInTemplate": false,
+  "disableSideMenu": false,
+  "offlineSupport": false,
+  "description": "",
+  "creatorId": "admin"
+}
